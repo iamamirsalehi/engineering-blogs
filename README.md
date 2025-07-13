@@ -6,6 +6,8 @@ This README includes links to various engineering blogs from both Iranian and in
 
 - [Divar](https://virgool.io/divarengineering/)
 - [Cafe Bazaar](https://tech.cafebazaar.ir/)
+- [Balad](https://virgool.io/BaladMaps/)
+- [Arvan Cloud](https://tech.arvancloud.ir/)
 
 ## International Companies
 
